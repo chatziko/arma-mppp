@@ -1,0 +1,6 @@
+[submodule "mppp"]
+	path = mppp
+	url = https://github.com/bluescarni/mppp
+[submodule "armadillo-code"]
+	path = armadillo
+	url = https://gitlab.com/conradsnicta/armadillo-code.git
